@@ -1,2 +1,2 @@
-# CodigosPyton
+# CodigosPython
 Alguns códigos
